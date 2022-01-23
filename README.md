@@ -1,0 +1,1 @@
+Jest to gra edukacyjna, w której chodzi o zebranie odpowiednich kształtów i dojścia w wyznaczone miejsce.
